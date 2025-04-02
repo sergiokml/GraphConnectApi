@@ -1,4 +1,4 @@
-# Hack-2gether
+# GraphConnectApi
 
 ## Introduction
 
